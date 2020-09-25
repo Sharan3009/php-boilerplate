@@ -1,4 +1,8 @@
 /* add global and minimal css that will be included by all the php templates */
+html,body{
+    height:100% !important;
+}
+
 .parent-flex{
     display:flex;
     flex-direction: column;
